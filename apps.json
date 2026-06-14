@@ -19,33 +19,34 @@
       "appIconUrl": "https://raw.githubusercontent.com/masterspike52/reNut/refs/heads/main/icon/app.ico"
     },
     {
-      "name": "Viva Pinata Trouble in Paradise",
+      "name": "Viva Pinata: Trouble in Paradise",
       "repository": "SolarCookies/TiP-Recomp",
       "folderName": "SolarCookies.TiP-Recomp",
       "appIconUrl": "https://raw.githubusercontent.com/SolarCookies/TiP-Recomp/refs/heads/main/icon/app.ico"
     },
     {
-      "name": "Dragon Ball Z Budokai",
+      "name": "Dragon Ball Z: Budokai HD",
       "repository": "WistfulHopes/DBZ1",
       "folderName": "DBZ1Recompiled",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/61501c1f651da2774f8bb6bbec365d84.png"
     },
-	{
+    {
       "name": "GoldenEye 007 (XBLA)",
       "repository": "SunJaycy/GoldenEye-Recomp",
       "folderName": "GoldenEye-Recomp",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/d5e7a42f848de89069733d940881fa90.ico"
     },
-	{
+    {
       "name": "Skate 3",
       "repository": "portingpete/skate3-recomp",
       "folderName": "Skate3Recomp",
-      "appIconUrl": "https://raw.githubusercontent.com/DinosaurPlanetRecomp/dino-recomp/refs/heads/main/icons/64.png"
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/ee7e6f84a9f04e29a73a6e50888b05c0/32/256x256.png"
     }
   ],
+
   "PlayStation Ports": [
-      {
-      "name": "Fatal Frame",
+    {
+      "name": "Fatal Frame (PS2)",
       "repository": "Mikompilation/MikuPan",
       "folderName": "FatalFrameMiko",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/b485dd9ed816f24bcfcc15f8b9cb9075.png"
@@ -61,21 +62,16 @@
       "repository": "Legend-of-Dragoon-Modding/Severed-Chains",
       "folderName": "Legend-of-Dragoon-Modding.Severed-Chains",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/ddc2c94d27d2c6d46b33acf21b21a641.png"
-    }	
+    }
   ],
+
   "Gamecube Ports": [
-	{
+    {
       "name": "Mario Party 4",
       "repository": "mariopartyrd/marioparty4",
       "folderName": "marioparty4",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/3e60e09c222f206c725385f53d7e567c.png"
     },
-      {
-      "name": "Animal Crossing",
-      "repository": "flyngmt/ACGC-PC-Port",
-      "folderName": "flyngmt.acgc_pcport",
-      "appIconUrl": "https://cdn2.steamgriddb.com/icon/63d9e8a72c3a2f029c635f9b194839d2.png"
-      },
     {
       "name": "Zelda: TP (Dusklight)",
       "repository": "TwilitRealm/dusklight",
@@ -83,6 +79,16 @@
       "appIconUrl": "https://cdn2.steamgriddb.com/grid/c1cc4766f548f241f50ead6c4350a95d.png"
     }
   ],
+
+  "AI Gamecube Ports": [
+    {
+      "name": "Animal Crossing",
+      "repository": "flyngmt/ACGC-PC-Port",
+      "folderName": "flyngmt.acgc_pcport",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/63d9e8a72c3a2f029c635f9b194839d2.png"
+    }
+  ],
+
   "N64 Ports": [
     {
       "name": "Perfect Dark",
@@ -102,7 +108,8 @@
       "folderName": "coop-deluxe.sm64coopdx",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/e3dd863ef4277e82f712a5bd8fefe7d7.png"
     }
-  ],  
+  ],
+
   "N64 Recompilations": [
     {
       "name": "Zelda 64",
@@ -187,16 +194,10 @@
       "repository": "RevoSucks/BMHeroRecomp",
       "folderName": "BMHeroRecompiled",
       "appIconUrl": "https://raw.githubusercontent.com/RevoSucks/BMHeroRecomp/refs/heads/master/icons/app.png"
-    },
-    {
-      "name": "Space Station Silicon Valley",
-      "repository": "Cellenseres/SSSV_Recomp",
-      "folderName": "SSSVRecompiled",
-      "appIconUrl": "https://raw.githubusercontent.com/Cellenseres/SSSV_Recomp/refs/heads/main/icons/512.png"
     }
   ],
 
-  "AI N64 Recompilations": [
+  "AI Ports": [
     {
       "name": "Super Smash Bros (BattleShip)",
       "repository": "JRickey/BattleShip",
@@ -214,6 +215,12 @@
       "repository": "SMCGames/Paper-Mario-ReCut",
       "folderName": "PaperMarioRecut",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/877a9ba7a98f75b90a9d49f53f15a858.ico"
+    },
+    {
+      "name": "Space Station Silicon Valley",
+      "repository": "Cellenseres/SSSV_Recomp",
+      "folderName": "SSSVRecompiled",
+      "appIconUrl": "https://raw.githubusercontent.com/Cellenseres/SSSV_Recomp/refs/heads/main/icons/512.png"
     }
   ],
 
@@ -275,7 +282,7 @@
       "folderName": "snesrev.smw",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/5ba01c0e82cd96577309302faf900a0d/32/1024x1024.png"
     },
-	{
+    {
       "name": "Link's Awakening DX HD",
       "repository": "BigheadSMZ/Zelda-LA-DX-HD-Updated",
       "folderName": "BigheadSMZ.ZeldaLAHD",
@@ -287,8 +294,9 @@
       "folderName": "AutoTMC_minish_cap",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/c19af480c40e343bbac3e2c01967b09f.png"
     }
-	],
-  "Various Ports": [
+  ],
+
+  "Other Ports": [
     {
       "name": "WipeOut Phantom Edition",
       "repository": "wipeout-phantom-edition/wipeout-phantom-edition",
@@ -313,5 +321,5 @@
       "folderName": "Eukaryot.sonic3air",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/a70dab11c90d06b809d0be230731762a/32/256x256.png"
     }
-	]
+  ]
 }
