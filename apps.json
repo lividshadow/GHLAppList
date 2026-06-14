@@ -338,6 +338,12 @@
       "repository": "kumapauz/project-reignition",
       "folderName": "kumapauz.project-reignition",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/92914b863caab3084c5cf0cb02e72b11.png"
+    },
+    {
+      "name": "R.E.L.I.V.E. (Fan Made Engine Replacement)",
+      "repository": "AliveTeam/alive_reversing",
+      "folderName": "AliveTeam.alive_reversing",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/b9b5c1aceaf0491b0c041bca34418f07.png"
     }
   ]
 }
