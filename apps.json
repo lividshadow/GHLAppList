@@ -371,6 +371,12 @@
       "repository": "stenzek/duckstation",
       "folderName": "duckstation",
       "appIconUrl": "https://github.com/stenzek/duckstation/blob/master/data/resources/images/duck.png?raw=true"
+    },
+    {
+      "name": "SkyEmu (GBA, DS)",
+      "repository": "skylersaleh/SkyEmu",
+      "folderName": "skyemu",
+      "appIconUrl": "https://github.com/skylersaleh/SkyEmu/blob/dev/src/resources/icons/icon.png?raw=true"
     }
   ]
 }
