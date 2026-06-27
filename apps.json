@@ -200,7 +200,13 @@
       "repository": "cdlewis/snowboardkids2-recomp",
       "folderName": "SnowboardKids2Recompiled",
       "appIconUrl": "https://github.com/cdlewis/snowboardkids2-recomp/blob/main/icons/512.png?raw=true"
-    }    
+    },
+    {
+      "name": "Harvest Moon 64",
+      "repository": "HarvestMoon64Recomp/HarvestMoon64Recomp",
+      "folderName": "HarvestMoon64Recomp",
+      "appIconUrl": "https://github.com/HarvestMoon64Recomp/HarvestMoon64Recomp/blob/main/icons/512.png?raw=true"
+    }
   ],
 
   "Harbor Masters N64 Ports": [
