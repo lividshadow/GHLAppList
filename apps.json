@@ -13,7 +13,7 @@
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/3e60e09c222f206c725385f53d7e567c.png"
     },
 	  {
-      "name": "Project Reignition (Sonic and the Secret Rings)",
+      "name": "Project Reignition (Sonic and the Secret Rings, Fan Remake)",
       "repository": "kumapauz/project-reignition",
       "folderName": "ProjectReignition",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/92914b863caab3084c5cf0cb02e72b11.png"
@@ -287,24 +287,57 @@
     }
   ],
 
-  "Other Ports": [
-    {
-      "name": "Azel: Reverse engineering of Panzer Dragoon Saga",
-      "repository": "yaz0r/Azel",
-      "folderName": "Azel",
-      "appIconUrl": "https://cdn2.steamgriddb.com/icon/eba4b31af98c58b7cdb9cc785adc7627.png"
-    },
-	  {
+  "Rexglue (Xbox 360)": [
+	{
       "name": "Banjo-Kazooie: Nuts & Bolts Re-NuT",
       "repository": "masterspike52/reNut",
       "folderName": "reNut",
       "appIconUrl": "https://raw.githubusercontent.com/masterspike52/reNut/refs/heads/main/icon/app.ico"
     },
 	{
+      "name": "Skate 3 Recomp",
+      "repository": "portingpete/skate3-recomp",
+      "folderName": "skate3-recomp",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/dcf0c06522a3c86c78bea8dc47433933.png"
+    },
+	{
       "name": "Viva Pinata Trouble In Paradise Recompiled",
       "repository": "SolarCookies/TiP-Recomp",
       "folderName": "VivaPinataTiPRecomp",
       "appIconUrl": "https://raw.githubusercontent.com/SolarCookies/TiP-Recomp/refs/heads/main/icon/app.ico"
+    },
+	  {
+      "name": "GoldenEye 007 Recomp",
+      "repository": "SunJaycy/GoldenEye-Recomp",
+      "folderName": "GoldenEyerexglue",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/c967fb654df41177901d1f5f135bf9e6.png"
+    },
+	  {
+      "name": "re:Blue - Blue Dragon Recompiled",
+      "repository": "zolaware/reblue",
+      "folderName": "BlueDragonRecomp",
+      "appIconUrl": "https://cdn2.steamgriddb.com/grid/56ece4baf45c8009e2370d804ca56fb8.jpg"
+    },
+	  {
+      "name": "Dragon Ball Z Budokai HD Recompiled",
+      "repository": "WistfulHopes/DBZ1",
+      "folderName": "DBZ1",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/61501c1f651da2774f8bb6bbec365d84.png"
+    },
+	  {
+      "name": "Sega Superstars Tennis ReMatch",
+      "repository": "m1ndcrap/Sega-Superstars-Tennis-ReMatch",
+      "folderName": "sst_rematch",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/ef5495c586679c353c85c0595e23239b.png"
+    }
+  ],
+
+  "Other Ports": [
+    {
+      "name": "Azel: Reverse engineering of Panzer Dragoon Saga",
+      "repository": "yaz0r/Azel",
+      "folderName": "Azel",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/eba4b31af98c58b7cdb9cc785adc7627.png"
     },
     {
       "name": "WipeOut Phantom Edition",
