@@ -469,6 +469,12 @@
       "appIconUrl": "https://github.com/Vita3K/Vita3K/blob/master/vita3k/Vita3K.png?raw=true"
     },
     {
+      "name": "Wheel Wizard (MKWii Retro Rewind)",
+      "repository": "TeamWheelWizard/WheelWizard",
+      "folderName": "WheelWizard",
+      "appIconUrl": "https://github.com/TeamWheelWizard/WheelWizard/blob/main/Flatpak/io.github.TeamWheelWizard.WheelWizard.png?raw=true"
+    },
+    {
       "name": "Xemu (Xbox)",
       "repository": "xemu-project/xemu",
       "folderName": "xemu",
